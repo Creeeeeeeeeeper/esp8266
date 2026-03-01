@@ -3,6 +3,14 @@
 基于 ESP8266 + ST7735 TFT 屏幕的无线**黑白**视频播放器。通过浏览器选择视频文件，实时串流到 128x128 TFT 屏幕上显示。
 
 > 用来播放Bad apple (doge
+>
+> https://github.com/user-attachments/assets/3e7bbd97-fd25-4df2-9e3f-f12760cfd587
+>
+> 当然还能看春晚
+>
+> https://github.com/user-attachments/assets/8d5d36e8-7226-42d5-93ca-e7d79560835d
+
+
 
 ## 硬件需求
 
