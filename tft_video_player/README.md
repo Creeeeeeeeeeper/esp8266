@@ -6,7 +6,7 @@
 >
 > https://github.com/user-attachments/assets/3e7bbd97-fd25-4df2-9e3f-f12760cfd587
 >
-> 当然还能看春晚
+> 当然还能看春晚，当然彩色的话帧率极低，故不做展示
 >
 > https://github.com/user-attachments/assets/8d5d36e8-7226-42d5-93ca-e7d79560835d
 
