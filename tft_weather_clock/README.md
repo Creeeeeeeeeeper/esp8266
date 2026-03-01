@@ -4,6 +4,14 @@
 
 ![7b5e02aed80f12e710029305b2baf659](./README/7b5e02aed80f12e710029305b2baf659.jpg)
 
+Setup:
+
+https://github.com/user-attachments/assets/f805d000-7f82-48c8-ac87-67825a61e22a
+
+Update:
+
+https://github.com/user-attachments/assets/19adfc11-88fd-4c7d-bcf6-531b0ce6d1d4
+
 ## 功能
 
 - **实时时钟** - NTP 自动校时（每 1 小时），大字体显示时分，小字体显示秒，逐字符对比刷新无闪烁
